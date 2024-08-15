@@ -1,0 +1,35 @@
+{
+  "name": "namaste-react new",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Mahak sahu",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react1",
+    "mahak",
+    "sahu"
+  ],
+  "author": "Mahak Sahu",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.41",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.8"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "nullthrows": "^1.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^9.1.2",
+    "react-router-dom": "^6.26.0",
+    "redux": "^5.0.1"
+  }
+}
